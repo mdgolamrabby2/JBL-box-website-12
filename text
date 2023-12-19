@@ -1,0 +1,179 @@
+========== HEADER ==========
+.nav__logo
+JBL
+
+.nav__link
+Home - About - Favorites - Models
+
+
+========== HOME ==========
+.home__title
+J B L
+
+.home__tooltip
+$150
+
+.home__button
+Buy Now
+
+.home__social-text
+Follow us
+
+.home__social-link
+https://www.instagram.com/
+https://www.facebook.com/
+https://www.youtube.com/
+
+
+
+
+========== ABOUT ==========
+.section__title
+MORE ABOUT US
+
+.about__description
+Enjoy award-winning JBL sound with 
+wireless listening freedom and a sleek, 
+streamlined design with comfortable 
+cushioned earcups that deliver premium 
+playback for the user.
+
+.button
+Know More
+
+
+========== FAVORITE ==========
+.section__title
+CHOOSE YOUR FAVORITE
+
+.favorite__model
+Black Model
+White Model
+Red Model
+Teal Model
+
+
+========== MODEL ==========
+.section__title
+MODEL SPECIFICATIONS
+
+.model__tooltip-text
+Best Comfort
+Easy Adjustment
+Fast Charge
+Custom Audio
+
+.model__button
+Buy Now
+
+
+========== FOOTER ==========
+.footer__logo
+JBL
+
+footer__title .footer__link
+Products
+ Headphones
+ Earphones
+ Earbuds
+ Accesories
+
+Support
+ Product Help
+ Register
+ Updates
+ Provides
+
+.footer__input placeholder
+Email
+
+.footer__button
+Subscribe
+
+.footer__social-link
+https://www.instagram.com/
+https://www.facebook.com/
+https://www.youtube.com/
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
+
+
+
+
+
+
+
+
+
+
+
+<div class="container-fluid">
+  <nav class="navbar navbar-expand-md fixed-top" data-aos="fade-down"
+  data-aos-easing="linear"
+  data-aos-duration="1500">
+    <div class="container">
+      <a class="navbar-brand" href="#">JBL</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link text-center" aria-current="page" href="#home">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-center" href="#about">About</a>
+          </li>
+         
+          <li class="nav-item">
+            <a class="nav-link text-center" href="#favorite">Favorites</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-center" href="#model"> Models</a>
+          </li>
+        </ul>
+
+
+        <form class="d-flex hstack gap-3 justify-content-center align-content-center" role="search">
+
+          <div class="navbar-socal-icon pt-2 hstack gap-3">
+
+
+            <button type="button" class="btn  position-relative" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Add card">
+              <a href=""><i class="fa-solid fa-cart-shopping"></i></a>
+              <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+                9+
+                <span class="visually-hidden">unread messages</span>
+              </span>
+            </button>
+           </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
+  <div class="eyfef"  data-aos="zoom-in"  data-aos-duration="3000">
+
+
+  <div class="baka-img">
+    <img class="d-block mx-auto position-relative" src="photo/tooltip-right.svg" alt="">
+    <button class="top-button mx-auto d-block">$150</button>
+  </div>
+
+  <div class="mine-section">
+    <div class="hero-img">
+      <img class="img-fluid mx-auto d-block" src="photo/home-img.png" alt="" width="30%">
+      <h1 class="home-title">
+        <span>J</span>
+        <span>B</span>
+        <span>L</span>
+      </h1>
+    </div>
+  </div>
+<div class="text-center">
+  <button class="home-button-1 text">Buy Now &nbsp; &nbsp;<i class="fa-solid fa-play"></i></button>
+</div>
+  </div>
+  </div>
